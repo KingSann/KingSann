@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hello! It's Zhuoyu Chen</h3>
 
 <p align="center">
-<a href="https://kingsann.github.io/">Blog</a>&nbsp;•&nbsp;
+<a href="https://nekko.moe/">Blog</a>&nbsp;•&nbsp;
 <a href="mailto:KingSann@foxmail.com">E-Mail</a>&nbsp;•&nbsp;
-<a href="https://github.com/KingSann/">GitHub</a>
+<a href="https://github.com/nekkomoe">GitHub</a>
 </p>
 
 ---
