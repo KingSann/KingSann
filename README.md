@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! It's nekko.</h3>
+<h3 align="center">👋 Hello! It's Zhuoyu Chen</h3>
 
 <p align="center">
 <a href="https://kingsann.github.io/">Blog</a>&nbsp;•&nbsp;
